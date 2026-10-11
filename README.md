@@ -1,5 +1,9 @@
 # 🌿 PlantGuard AI
 
+🚀 **[Try PlantGuard AI](https://plantguard-ai-26.streamlit.app/)**
+
+Upload a plant leaf image and explore predictions from a
+MobileNetV2-based plant disease classification model.
 ## AI-Powered Plant Disease Classification
 
 PlantGuard AI is an end-to-end deep learning project that classifies
