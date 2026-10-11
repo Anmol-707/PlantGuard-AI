@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Streamlit logs
+*.log
+
+# Temporary files
+app_backup.py
