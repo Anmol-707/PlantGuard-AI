@@ -111,9 +111,7 @@ PlantVillage and PlantDoc validation accuracies.
 
     streamlit run app.py
 
-## 🖼️ Screenshots
 
-Screenshots will be added after deployment.
 
 ## 🔮 Future Improvements
 
