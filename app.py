@@ -181,7 +181,32 @@ h1, h2, h3 {
     border-radius: 14px;
     border: 1px solid #d6eadc;
 }
+/* Fix Model Insights metric cards */
 
+div[data-testid="stMetric"] {
+    background-color: #ffffff !important;
+    border: 1px solid #d7e8dc !important;
+    border-radius: 18px !important;
+    padding: 22px !important;
+}
+
+/* Metric labels */
+div[data-testid="stMetricLabel"] {
+    color: #315443 !important;
+}
+
+div[data-testid="stMetricLabel"] * {
+    color: #315443 !important;
+}
+
+/* Metric values */
+div[data-testid="stMetricValue"] {
+    color: #123b29 !important;
+}
+
+div[data-testid="stMetricValue"] * {
+    color: #123b29 !important;
+}
 </style>
 """, unsafe_allow_html=True)
 
